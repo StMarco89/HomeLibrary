@@ -1,0 +1,7 @@
+1:::The Sign of the Four::: Arthur Conan Doyle:::Mystery:::1890:::      
+2:::To Kill a Mockingbird:::Harper Lee:::Science fiction:::1960:::      
+3:::The Brothers Karamazov:::Fyodor Dostoyevsky:::Genres:::1880::: The Brothers Karamazov, also translated as The Karamazov Brothers, is the final novel by the Russian author Fyodor Dostoyevsky.
+4:::The Master and Margarita:::Mikhail Bulgakov:::Mystery:::1967:::     The Master and Margarita is a novel by Mikhail Bulgakov, written between 1928 and 1940, but unpublished in book form until 1967. The story concerns a visit by the devil to the fervently atheistic Soviet Union.
+5:::Beginning Java, Java 7 Edition:::Ivor Horton:::...:::2011:::   Borrowed by John Doe (30.06.2017.)
+6:::Harry Potter and the Philosopher's Stone:::J. K. Rowling:::Science fiction:::1997:::  Harry Potter and the Philosopher's Stone is the first novel in the Harry Potter series and J. K. Rowling's debut novel, first published in 1997 by Bloomsbury.
+7:::Nineteen Eighty-Four:::George Orwell:::Science fiction:::1949:::  Nineteen Eighty-Four, often published as 1984, is a dystopian novel published in 1949 by English author George Orwell.
