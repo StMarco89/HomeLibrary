@@ -12,10 +12,11 @@ It has three functions:
 - Edit selected Book
 - Delete selected
 
-Add new book            |  Edit selected Book         | Delete selected book
-:-------------------------:|:-------------------------:|:-------------------------:
-![addbook](https://user-images.githubusercontent.com/4437339/27797000-47d1470e-600c-11e7-8c09-a6954c0ffaa9.PNG)  |  ![editbook](https://user-images.githubusercontent.com/4437339/27797017-5986472e-600c-11e7-8030-472e56c8cae9.PNG)  |  ![deletebook](https://user-images.githubusercontent.com/4437339/27797070-90296356-600c-11e7-9119-b4cf7336b877.PNG)
+Add new book            |  Edit selected Book         |
+:-------------------------:|:-------------------------:
+![addbook](https://user-images.githubusercontent.com/4437339/27797000-47d1470e-600c-11e7-8c09-a6954c0ffaa9.PNG)  |  ![editbook](https://user-images.githubusercontent.com/4437339/27797017-5986472e-600c-11e7-8030-472e56c8cae9.PNG)
+| Delete selected book
+:-------------------------:|
+![deletebook](https://user-images.githubusercontent.com/4437339/27797070-90296356-600c-11e7-9119-b4cf7336b877.PNG)
 ##
 `NOTE: This is my learning and practicing project. All comments and suggestions are more than welcome!`
-
-
