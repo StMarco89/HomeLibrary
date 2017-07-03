@@ -6,7 +6,6 @@
 ![uml](https://user-images.githubusercontent.com/4437339/27799853-1c0b5adc-6017-11e7-8155-0f590abe5c97.png)
 
 Main idea was to have some data to manipulate with, data that would be stored in a local file (`BooksData.txt`).
-##
 It has three functions:
 - Add new book
 - Edit selected Book
