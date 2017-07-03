@@ -1,5 +1,8 @@
 ## HomeLibrary
 **HomeLibrary** represent simple desktop Java based application for cataloguing your home library books
+
+![hl](https://user-images.githubusercontent.com/4437339/27807929-8d5c8544-6044-11e7-9e0b-48356baa717b.PNG)
+
 ##
 **Application structure:**
 
@@ -24,6 +27,6 @@ Add new book            |  Edit selected Book         | Delete selected book
 
 
 ##
-`NOTE: This is my learning and practicing project. All comments and suggestions are more than welcome!`
+:heavy_exclamation_mark: `NOTE: This is my learning and practicing project. All comments and suggestions are more than welcome!`
 
 
